@@ -1,3 +1,19 @@
+# Open Enclave SDK
+
+
+[Hugo Quick Start](https://gohugo.io/getting-started/quick-start/)
+
+## Start site
+
+``` shell
+hugo server -D
+```
+
+## New content
+
+``` shell
+hugo new <page>.md
+```
 
 # Contributing
 
