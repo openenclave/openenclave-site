@@ -16,8 +16,8 @@
 title: Open Enclave SDK 
 email: your-email@example.com
 description: An open source SDK to provide a consistent API surface and enclaving abstraction, supporting portability across enclave technologies and flexibility in architecture across all platforms from cloud to edge. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "openenclave-site" # the subpath of your site, e.g. /blog
+url: "http://Microsoft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 docs: http://Microsoft.github.io/OpenEnclave
