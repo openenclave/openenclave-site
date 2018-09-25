@@ -13,7 +13,6 @@ Open Enclave SDK is an open source SDK targeted at creating a single unified enc
 <img  style="float:right; " src="assets/images/OpenEnclave.png" width="150"  /></div>
 </div>
 <hr/>
-<hr/>
 
 ## Trusted Execution Environment(TEE) Based Application Development
 <div class="row2">
@@ -22,7 +21,6 @@ Open Enclave SDK is an open source SDK targeted at creating a single unified enc
 <div class="column2" align="justify">
 An enclave application partitions itself into two components (1) an untrusted component (called the host) and (2) a trusted component (called the enclave).  The host component runs unmodified on the untrusted operating system, while the trusted component runs within the enclave, the protected container provided by a TEE implementation.  These protections allow enclaves to perform secure computations with assurances that secrets will not be compromised.</div>
 </div>
-<hr/>
 <hr/>
 ## Core Tenets
 <div class="row3">
@@ -35,7 +33,6 @@ An enclave application partitions itself into two components (1) an untrusted co
    <div class="column3center"> <img src="assets/images/Compatible.png" width="50" /><h4>Compatible</h4><p>Easier enablement of redistributable applications</p></div>
    <div class="column3"><img src="assets/images/Open.png" width="50" /><h4>Open</h4><p>Open source and a standard for secure enclave-based application development</p></div>
 </div>
-<hr/>
 <hr/>
 
 ## Supported SDK Functionality
@@ -54,7 +51,6 @@ An enclave application partitions itself into two components (1) an untrusted co
 <div class="row2">
 <div class="column2" align="justify"><h4>&#10004;Runtime and cryptographic libraries</h4><p>Pluggable libraries to provide the necessary language and cryptographic support within an enclave</p></div>
 </div>
-<hr/>
 <hr/>
 
 ## New Features in Current Version
