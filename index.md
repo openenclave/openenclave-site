@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-## What is Open Enclave SDK? 
+### What is Open Enclave SDK? 
 <div class="row2">
 <div class="column2" align="justify">
 Confidential computing is an ongoing effort to protect data throughout its lifecycle at rest, in transit and now in use.  With the use of Trust Execution Environments, customers can build applications that protect data from outside access while in use.  
@@ -14,15 +14,16 @@ Open Enclave SDK is an open source SDK targeted at creating a single unified enc
 </div>
 <hr/>
 
-## Trusted Execution Environment(TEE) Based Application Development
+### Trusted Execution Environment(TEE) Based Application Development
 <div class="row2">
 <div class="column2">
-<img style="float:left"  src="assets/images/TEE.png" width="800" /></div>
+<img style="float:left"  src="assets/images/TEE.png" width="500" /></div>
 <div class="column2" align="justify">
 An enclave application partitions itself into two components (1) an untrusted component (called the host) and (2) a trusted component (called the enclave).  The host component runs unmodified on the untrusted operating system, while the trusted component runs within the enclave, the protected container provided by a TEE implementation.  These protections allow enclaves to perform secure computations with assurances that secrets will not be compromised.</div>
 </div>
 <hr/>
-## Core Tenets
+
+### Core Tenets
 <div class="row3">
   <div class="column3" ><img src="assets/images/Universal.png" width="50" /><h4 >Universal</h4><p>Generalize enclave application model to minimize hardware/software specific concepts</p></div>
   <div class="column3center" ><img src="assets/images/Pluggable.png" width="50"/><h4>Pluggable</h4><p>Componentization to support desired runtimes and crypto libraries</p></div>
@@ -35,7 +36,7 @@ An enclave application partitions itself into two components (1) an untrusted co
 </div>
 <hr/>
 
-## Supported SDK Functionality
+### Supported SDK Functionality
 <div class="row2">
   <div class="column2" align="justify"><h4>&#10004;Enclave creation and management</h4><p>Function calls to manage the lifecycle of an enclave within your application</p></div>
   <div class="column2right" align="justify"><h4>&#10004;Enclave measurement and identity</h4><p>Expressions of enclave measurement and identity</p></div>  
@@ -53,13 +54,11 @@ An enclave application partitions itself into two components (1) an untrusted co
 </div>
 <hr/>
 
-## New Features in Current Version
+### New Features in Current Version
 With release 0.4, we are excited to provide support for: 
 * Operating System: Linux
 * Trusted Execution Environments: Intel SGX 
 * Runtime Libraries: C/C++ 
 * Cryptographic Libraries: mBedTLS. 
 
-Coming soon: Arm TrustZone support in Linux and both Intel SGX and TrustZone support in Windows! 
-<hr/>
-
+Coming soon: Arm TrustZone support in Linux and both Intel SGX and TrustZone support in Windows!
