@@ -20,7 +20,7 @@ baseurl: "/openenclave-site" # the subpath of your site, e.g. /blog
 url: "http://microsoft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-docs: http://Microsoft.github.io/OpenEnclave
+docs: "https://aka.ms/OESDKDocs"
 githubrepo: "http://aka.ms/OESDKGitHubRepo" 
 
 # Build settings
