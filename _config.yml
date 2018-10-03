@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Open Enclave SDK 
 email: your-email@example.com
-description: An open source development SDK  to provide a consistent API surface, across enclave technologies and all platforms from cloud to edge.
+description:  Build Trusted Execution Environment based applications to help protect data in use with an open source SDK that provides consistent API surface across enclave technologies as well as all platforms from cloud to edge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://microsoft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
