@@ -13,7 +13,7 @@ Open Enclave SDK is an open source SDK targeted at creating a single unified enc
 <img  style="float:right; " src="../assets/images/OpenEnclave.png" width="150"  /></div>
 </div>
 <hr/>
-
+<p style="clear: both;"></p>
 ### Trusted Execution Environment(TEE) Based Application Development
 <div class="row2">
 <div class="column2">
@@ -22,6 +22,7 @@ Open Enclave SDK is an open source SDK targeted at creating a single unified enc
 An enclave application partitions itself into two components (1) an untrusted component (called the host) and (2) a trusted component (called the enclave).  The host component runs unmodified on the untrusted operating system, while the trusted component runs within the enclave, the protected container provided by a TEE implementation.  These protections allow enclaves to perform secure computations with assurances that secrets will not be compromised.</div>
 </div>
 <hr/>
+
 
 ### Core Tenets
 <div class="row3">
