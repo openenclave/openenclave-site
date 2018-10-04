@@ -1,0 +1,4 @@
+<map id="_oe_exception_record" name="_oe_exception_record">
+<area shape="rect" id="node2" href="$struct__oe__context.html" title="Register state to be saved before an exception and restored after the exception has been handled in t..." alt="" coords="33,95,127,121"/>
+<area shape="rect" id="node3" href="$struct__oe__basic__xstate.html" title="Blob that contains X87 and SSE data. " alt="" coords="18,5,142,32"/>
+</map>

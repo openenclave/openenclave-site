@@ -1,0 +1,5 @@
+<map id="include/openenclave/bits/result.h" name="include/openenclave/bits/result.h">
+<area shape="rect" id="node2" href="$properties_8h.html" title="This file defines the SGX properties for an enclave. " alt="" coords="5,95,145,136"/>
+<area shape="rect" id="node3" href="$enclave_8h.html" title="This file defines the programming interface for developing enclaves. " alt="" coords="59,184,199,225"/>
+<area shape="rect" id="node4" href="$host_8h.html" title="This file defines the programming interface for developing host applications. " alt="" coords="221,95,361,136"/>
+</map>
