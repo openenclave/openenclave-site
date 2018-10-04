@@ -10,14 +10,14 @@ layout: default
 Confidential computing is an ongoing effort to protect data throughout its lifecycle at rest, in transit and now in use.  With the use of Trust Execution Environments, customers can build applications that protect data from outside access while in use.  
 Open Enclave SDK is an open source SDK targeted at creating a single unified enclaving abstraction for developer to be build Trusted Execution Environment (TEEs) based applications.  As TEE technology matures and as different implementations arise, the Open Enclave SDK is committed to supporting an API set that allows developers to build once and deploy on multiple technology platforms, different environments from cloud to hybrid to edge, and for both Linux and Windows.</div>
 <div class="column2">
-<img  style="float:right; " src="assets/images/OpenEnclave.png" width="150"  /></div>
+<img  style="float:right; " src="../assets/images/OpenEnclave.png" width="150"  /></div>
 </div>
 <hr/>
 
 ### Trusted Execution Environment(TEE) Based Application Development
 <div class="row2">
 <div class="column2">
-<img style="float:left"  src="assets/images/TEE.png" width="500" /></div>
+<img style="float:left"  src="../assets/images/TEE.png" width="500" /></div>
 <div class="column2" align="justify">
 An enclave application partitions itself into two components (1) an untrusted component (called the host) and (2) a trusted component (called the enclave).  The host component runs unmodified on the untrusted operating system, while the trusted component runs within the enclave, the protected container provided by a TEE implementation.  These protections allow enclaves to perform secure computations with assurances that secrets will not be compromised.</div>
 </div>
@@ -25,14 +25,14 @@ An enclave application partitions itself into two components (1) an untrusted co
 
 ### Core Tenets
 <div class="row3">
-  <div class="column3" ><img src="assets/images/Universal.png" width="50" /><h4 >Universal</h4><p>Generalize enclave application model to minimize hardware/software specific concepts</p></div>
-  <div class="column3center" ><img src="assets/images/Pluggable.png" width="50"/><h4>Pluggable</h4><p>Componentization to support desired runtimes and crypto libraries</p></div>
-   <div class="column3"  ><img src="assets/images/Standardized.png" width="50" /><h4>Standardized</h4><p>Remove hardware vendor specific signing and verification requirements</p></div>
+  <div class="column3" ><img src="../assets/images/Universal.png" width="50" /><h4 >Universal</h4><p>Generalize enclave application model to minimize hardware/software specific concepts</p></div>
+  <div class="column3center" ><img src="../assets/images/Pluggable.png" width="50"/><h4>Pluggable</h4><p>Componentization to support desired runtimes and crypto libraries</p></div>
+   <div class="column3"  ><img src="../assets/images/Standardized.png" width="50" /><h4>Standardized</h4><p>Remove hardware vendor specific signing and verification requirements</p></div>
   </div>
 <div class="row3">
-   <div class="column3"><img src="assets/images/Multiplatform.png" width="50" /><h4>Multi-platform</h4><p>Design with all software platforms, Windows and Linux, in mind</p></div>
-   <div class="column3center"> <img src="assets/images/Compatible.png" width="50" /><h4>Compatible</h4><p>Easier enablement of redistributable applications</p></div>
-   <div class="column3"><img src="assets/images/Open.png" width="50" /><h4>Open</h4><p>Open source and a standard for secure enclave-based application development</p></div>
+   <div class="column3"><img src="../assets/images/Multiplatform.png" width="50" /><h4>Multi-platform</h4><p>Design with all software platforms, Windows and Linux, in mind</p></div>
+   <div class="column3center"> <img src="../assets/images/Compatible.png" width="50" /><h4>Compatible</h4><p>Easier enablement of redistributable applications</p></div>
+   <div class="column3"><img src="../assets/images/Open.png" width="50" /><h4>Open</h4><p>Open source and a standard for secure enclave-based application development</p></div>
 </div>
 <hr/>
 
