@@ -359,6 +359,7 @@ Full-Width Styles
     font-weight: 700;
 }
 
+@media only screen and (min-width: 760px) {
 .row3 {
     display: flex;
     align-self: center;
@@ -387,6 +388,7 @@ Full-Width Styles
 .column2right {
     flex: 50%;
     margin: 0 80px;
+}
 }
 
 
