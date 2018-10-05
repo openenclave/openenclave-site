@@ -7,8 +7,7 @@ layout: default
 ### What is Open Enclave SDK? 
 <div class="row2">
 <div class="column2" align="justify">
-Confidential computing is an ongoing effort to protect data throughout its lifecycle at rest, in transit and now in use.  With the use of Trust Execution Environments, customers can build applications that protect data from outside access while in use.  
-Open Enclave SDK is an open source SDK targeted at creating a single unified enclaving abstraction for developer to be build Trusted Execution Environment (TEEs) based applications.  As TEE technology matures and as different implementations arise, the Open Enclave SDK is committed to supporting an API set that allows developers to build once and deploy on multiple technology platforms, different environments from cloud to hybrid to edge, and for both Linux and Windows.</div>
+Confidential computing is an ongoing effort to protect data throughout its lifecycle at rest, in transit and now in use.  With the use of Trust Execution Environments, customers can build applications that protect data from outside access while in use. Open Enclave SDK is an open source SDK targeted at creating a single unified enclaving abstraction for developer to be build Trusted Execution Environment (TEEs) based applications.  As TEE technology matures and as different implementations arise, the Open Enclave SDK is committed to supporting an API set that allows developers to build once and deploy on multiple technology platforms, different environments from cloud to hybrid to edge, and for both Linux and Windows.</div>
 <div class="column2">
 <img  style="float:right; " src="../assets/images/OpenEnclave.png" width="150"  /></div>
 </div>
