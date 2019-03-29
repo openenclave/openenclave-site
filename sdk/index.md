@@ -52,4 +52,3 @@ An enclave application partitions itself into two components (1) an untrusted co
 <div class="row2">
 <div class="column2" align="justify"><h4>&#10004;Runtime and cryptographic libraries</h4><p>Pluggable libraries to provide the necessary language and cryptographic support within an enclave</p></div>
 </div>
-<hr/>
