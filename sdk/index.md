@@ -53,12 +53,3 @@ An enclave application partitions itself into two components (1) an untrusted co
 <div class="column2" align="justify"><h4>&#10004;Runtime and cryptographic libraries</h4><p>Pluggable libraries to provide the necessary language and cryptographic support within an enclave</p></div>
 </div>
 <hr/>
-
-### New Features in Current Version
-With release 0.4, we are excited to provide support for: 
-* Operating System: Linux
-* Trusted Execution Environments: Intel SGX 
-* Runtime Libraries: C/C++ 
-* Cryptographic Libraries: mBedTLS. 
-
-Coming soon: Arm TrustZone support in Linux and both Intel SGX and TrustZone support in Windows!
