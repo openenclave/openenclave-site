@@ -91,18 +91,26 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <h2>Release notes</h2>
 <p>
 <ul>
+
 <li>
 There is now an importable CMake package that Open Enclave SDK users can include in their CMake builds.
-o This CMake package exposes the Open Enclave SDK targets that enclave developers should interface with when building their enclaves and host executables.
+ <ul>
+ <li>This CMake package exposes the Open Enclave SDK targets that enclave developers should interface with when building their enclaves and host executables.</li>
+ </ul>
+</li>
+ 
+<li>
 Ubuntu 18.04 is now supported in addition to Ubuntu 16.04.
 </li>
 
 <li>
 Improved logging
-o This is an SDK internal logging feature which logs operations from host and enclave SDK API calls based on configurations.
-o SDK logging for host calling paths is always on.
-o SDK logging for enclave calling paths is only turned on when they are both signed and loaded as “Debug” enclaves.
-o Users can control the logging level by setting the OE_LOG_LEVEL environment variable to one of the supported log levels: NONE< FATAL, ERROR (default), WARN, INFO, or VERBOSE.
+ <ul>
+ <li>This is an SDK internal logging feature which logs operations from host and enclave SDK API calls based on configurations.</li>
+ <li>SDK logging for host calling paths is always on.</li>
+ <li>SDK logging for enclave calling paths is only turned on when they are both signed and loaded as “Debug” enclaves.</li>
+ <li>Users can control the logging level by setting the OE_LOG_LEVEL environment variable to one of the supported log levels: NONE, FATAL, ERROR (default), WARN, INFO, or VERBOSE.</li>
+ </ul>
 </li>
 
 <li>
@@ -127,12 +135,14 @@ The Ninja build engine is now supported as an option to the CMake build generato
 
 <li>
 The unsafe string methods for ecalls and ocalls were removed. Developers should now use the edger8r code for ecalls and ocalls. The following deprecated host and enclave methods and declarations were removed:
-o oe_call_enclave
-o oe_call_host
-o oe_call_host_by_address
-o OE_ECALL
-o OE_OCALL
-o oe_create_enclave is still implemented but the edger8r generates a preferred method for creation.
+ <ul>
+ <li>oe_call_enclave</li>
+ <li>oe_call_host</li>
+ <li>oe_call_host_by_address</li>
+ <li>OE_ECALL</li>
+ <li>OE_OCALL</li>
+ <li>oe_create_enclave is still implemented but the edger8r generates a preferred method for creation.</li>
+ </ul>
 </li>
 
 <li>
