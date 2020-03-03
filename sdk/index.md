@@ -30,7 +30,7 @@ An enclave application partitions itself into two components (1) an untrusted co
    <div class="column3"  ><img src="../assets/images/Standardized.png" width="50" /><h4>Standardized</h4><p>Remove hardware vendor specific signing and verification requirements</p></div>
   </div>
 <div class="row3">
-   <div class="column3"><img src="../assets/images/Multiplatform.png" width="50" /><h4>Multi-platform</h4><p>Design with all software platforms, Windows and Linux, in mind</p></div>
+   <div class="column3"><img src="../assets/images/Multiplatform.png" width="50" /><h4>Multi-platform</h4><p>Design with multiple software platforms, Windows and Linux, in mind</p></div>
    <div class="column3center"> <img src="../assets/images/Compatible.png" width="50" /><h4>Compatible</h4><p>Easier enablement of redistributable applications</p></div>
    <div class="column3"><img src="../assets/images/Open.png" width="50" /><h4>Open</h4><p>Open source and a standard for secure enclave-based application development</p></div>
 </div>
