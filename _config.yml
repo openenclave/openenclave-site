@@ -20,8 +20,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://microsoft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-docs: "https://aka.ms/OESDKDocs"
-githubrepo: "http://aka.ms/OESDKGitHubRepo" 
+docs: "https://openenclave.github.io/openenclave"
+githubrepo: "http://github.com/openenclave/openenclave" 
 
 # Build settings
 markdown: kramdown
