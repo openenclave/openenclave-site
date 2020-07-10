@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Open Enclave SDK 
-email: your-email@example.com
+email: oesdk@microsoft.com
 description: Build Trusted Execution Environment based applications to help protect data in use with an open source SDK that provides consistent API surface across enclave technologies as well as all platforms from cloud to edge. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://microsoft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://openenclave.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:
 docs: "https://openenclave.github.io/openenclave"
 githubrepo: "http://github.com/openenclave/openenclave" 
 
