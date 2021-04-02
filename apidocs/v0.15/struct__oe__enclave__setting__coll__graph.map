@@ -1,0 +1,5 @@
+<map id="_oe_enclave_setting" name="_oe_enclave_setting">
+<area shape="rect" id="node1" title="The uniform structure type containing a specific type of enclave setting." alt="" coords="118,124,273,151"/>
+<area shape="rect" id="node2" href="$struct__oe__sgx__enclave__setting__config__data.html" title="The setting for config_id/config_svn on Ice Lake platform." alt="" coords="5,5,191,47"/>
+<area shape="rect" id="node3" href="$struct__oe__enclave__setting__context__switchless.html" title="The setting for context&#45;switchless calls." alt="" coords="215,5,370,47"/>
+</map>
