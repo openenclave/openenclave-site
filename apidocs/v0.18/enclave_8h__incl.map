@@ -1,5 +1,5 @@
 <map id="enclave.h" name="enclave.h">
-<area shape="rect" id="node1" title=" " alt="" coords="684,5,769,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="731,5,816,32"/>
 <area shape="rect" id="node2" title=" " alt="" coords="5,80,179,121"/>
 <area shape="rect" id="node3" title=" " alt="" coords="203,87,293,114"/>
 <area shape="rect" id="node4" href="$bits_2evidence_8h.html" title=" " alt="" coords="318,87,439,114"/>
@@ -12,6 +12,7 @@
 <area shape="rect" id="node13" href="$module_8h.html" title=" " alt="" coords="718,87,829,114"/>
 <area shape="rect" id="node14" href="$result_8h.html" title=" " alt="" coords="819,169,1005,196"/>
 <area shape="rect" id="node15" href="$properties_8h.html" title=" " alt="" coords="904,87,1032,114"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1576,87,1688,114"/>
 <area shape="rect" id="node5" title=" " alt="" coords="497,319,559,345"/>
 <area shape="rect" id="node6" href="$report_8h.html" title=" " alt="" coords="315,169,389,196"/>
 </map>
